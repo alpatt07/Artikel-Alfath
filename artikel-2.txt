@@ -13,6 +13,8 @@ yang sebenarnya sudah diatur oleh algoritma sistem.
 
 - Manipulasi Psikologis (Near-Miss Effect): Sistem sengaja dirancang untuk menampilkan hasil yang "hampir menang". Efek ini memicu otak untuk 
 berpikir bahwa kemenangan sudah sangat dekat, padahal secara matematis, peluang pemain untuk menang dalam jangka panjang adalah nol.
+- Saat Menang: Otak diganjar rasa puas luar biasa. Kamu merasa jenius dan beruntung.
+- Saat Kalah: Bukannya kapok, otak justru mengalami "sakau" dan menuntut balasan. Kamu terjebak dalam siklus chasing losses—bertaruh lebih besar untuk membalas kekalahan sebelumnya.
 - Bandar Tidak Pernah Kalah: Dalam sistem pemrograman judi digital, algoritma diciptakan dengan matematis yang selalu menguntungkan 
 penyedia layanan (house edge). Semakin lama seseorang bermain, semakin pasti ia akan kehilangan seluruh uangnya.
 
